@@ -2,7 +2,7 @@ package goproxy
 
 import (
 	"bufio"
-	"github.com/elazarl/goproxy/transport"
+	"github.com/utoku/goproxy/transport"
 	"io"
 	"log"
 	"net/http"
